@@ -1,4 +1,4 @@
 # nodebotsDay
 ATLjs meetup presents: "Nodebots Day" 2016
 
-Built a copter car using arduino. More documentation to come.
+> Always knew my childhood dreams would be reached thanks to tape, glue, cardboard, robotics, and imagination
