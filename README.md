@@ -14,3 +14,12 @@ ATLjs meetup presents: "Nodebots Day" 2016
 * Popsicle sticks, glue, tape, cardboard box
 
 ![picture](coptercar.jpg)
+
+##Software Setup
+1. Install Arduino IDE
+2. Install node 
+3. Install Johnny Five - npm install johnny-five, Windows: npm install johnny-five --msvs_version=2012
+4. Firmata - check first: does Firmata exist? If not, install it
+
+##Code Samples on Controlling hardware
+Can be found [here](http://johnny-five.io/)
