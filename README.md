@@ -13,7 +13,8 @@ ATLjs meetup presents: "Nodebots Day" 2016
 * Breadboard
 * Popsicle sticks, glue, tape, cardboard box
 
-![picture](coptercar.jpg)
+[![picture](coptercar.jpg)](https://twitter.com/airportyh/status/774699300538445824 "HAL-l0 Cam in action - Click to Watch!")
+Click on picture to see video
 
 ##Software Setup
 1. Install Arduino IDE
